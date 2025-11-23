@@ -1,0 +1,13 @@
+{
+  "name": "blog-cms-backend-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

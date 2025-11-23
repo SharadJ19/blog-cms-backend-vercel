@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "public": true,
+  "rewrites": [
+    {
+      "source": "/posts/:path*",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/posts",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/categories/:path*",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/categories",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/api/index.js"
+    }
+  ]
+}
