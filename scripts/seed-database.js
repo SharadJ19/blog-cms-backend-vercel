@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Load environment
-dotenv.config({ path: path.join(__dirname, '..', '.env.local') });
+dotenv.config({ path: path.join(__dirname, '..', '.env') });
 
 // Import models
 import Post from '../models/Post.js';
