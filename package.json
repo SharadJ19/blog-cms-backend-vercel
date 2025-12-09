@@ -2,6 +2,7 @@
   "name": "blog-cms-backend-vercel",
   "version": "1.0.0",
   "description": "MongoDB backend for Angular Blog CMS",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vercel dev",

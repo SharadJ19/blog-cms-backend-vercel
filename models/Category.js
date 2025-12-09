@@ -18,10 +18,8 @@ const categorySchema = new mongoose.Schema(
   }
 );
 
-// Prevent Mongoose from creating _id field
+// Remove _id and __v from responses
 categorySchema.set("toJSON", {
-  virtuals: true,
-  versionKey: false,
   transform: function (doc, ret) {
     delete ret._id;
     delete ret.__v;
