@@ -1,0 +1,640 @@
+{
+  "posts": [
+    {
+      "id": "8a3f",
+      "title": "Angular: Your New Coding BFF",
+      "content": "Angular isn't just a framework - it's your new coding bestie! This TypeScript-powered platform makes building single-page apps feel like a dance party. Start with the Angular CLI (npm install -g @angular/cli), create your app (ng new my-awesome-app), and watch the magic happen. Components, services, and dependency injection become your new squad members. Pro tip: The learning curve is real, but once you're in, you'll be building enterprise-level apps like a boss!",
+      "author": "CodeNinja",
+      "categoryId": "c4e9",
+      "tags": ["Angular", "TypeScript", "Frontend"],
+      "date": "2025-02-15",
+      "thumbnail": "https://placehold.co/600x338?text=Angular+BFF"
+    },
+    {
+      "id": "b7c2",
+      "title": "React vs Vue: The Ultimate Showdown",
+      "content": "It's the battle of the JavaScript frameworks! React brings the corporate muscle while Vue dances with elegance. React's JSX feels like HTML on steroids, Vue's single-file components are pure poetry. Both have killer ecosystems, but React's job market is massive while Vue's learning curve is smoother. My take? Learn both - be framework bilingual and watch recruiters line up!",
+      "author": "FrameworkFan",
+      "categoryId": "c4e9",
+      "tags": ["React", "Vue", "JavaScript"],
+      "date": "2025-02-14",
+      "thumbnail": "https://placehold.co/600x338?text=React+vs+Vue"
+    },
+    {
+      "id": "d4e9",
+      "title": "Node.js: JavaScript Everywhere!",
+      "content": "Node.js took JavaScript from browser toy to server powerhouse! Event-driven, non-blocking I/O means your app can handle thousands of connections without breaking a sweat. Create a server in 5 lines of code, tap into npm's massive ecosystem, and build everything from APIs to real-time chat apps. Warning: Once you go full-stack JavaScript, you never go back!",
+      "author": "ServerSideSally",
+      "categoryId": "a7f2",
+      "tags": ["Node.js", "JavaScript", "Backend"],
+      "date": "2025-02-13",
+      "thumbnail": "https://placehold.co/600x338?text=Node.js+Power"
+    },
+    {
+      "id": "f6a1",
+      "title": "Docker: Your App's Travel Container",
+      "content": "Docker containers are like luxury suites for your applications - they travel anywhere without complaining! Package your app with all its dependencies, ship it to any environment, and watch it run identically everywhere. No more 'but it worked on my machine' excuses. Plus, docker-compose makes orchestrating multiple services feel like conducting an orchestra!",
+      "author": "ContainerCaptain",
+      "categoryId": "e8b5",
+      "tags": ["Docker", "DevOps", "Containers"],
+      "date": "2025-02-12",
+      "thumbnail": "https://placehold.co/600x338?text=Docker+Magic"
+    },
+    {
+      "id": "c8b3",
+      "title": "Linux: Because Rebooting is for Amateurs",
+      "content": "Welcome to Linux, where uptime is measured in years and 'have you tried turning it off and on again' is considered heresy! From Ubuntu's user-friendly embrace to Arch's 'I built this myself' pride, there's a distro for every personality. Master the terminal, embrace package managers, and join the elite who know what 'sudo' really means!",
+      "author": "TerminalTitan",
+      "categoryId": "9d1c",
+      "tags": ["Linux", "Ubuntu", "Terminal"],
+      "date": "2025-02-11",
+      "thumbnail": "https://placehold.co/600x338?text=Linux+Life"
+    },
+    {
+      "id": "e7d2",
+      "title": "Breaking Bad: Chemistry Class Never Looked So Good",
+      "content": "Walter White turned a chemistry lesson into the greatest crime saga ever! From meek teacher to meth kingpin, this show proves that midlife crises can be... explosive. The character development is so good you'll find yourself rooting for a drug dealer. Just remember: I am the one who knocks... on your heart with emotional trauma!",
+      "author": "BingeWatcher",
+      "categoryId": "2b6f",
+      "tags": ["Breaking Bad", "Drama", "TV Series"],
+      "date": "2025-02-10",
+      "thumbnail": "https://placehold.co/600x338?text=Breaking+Bad"
+    },
+    {
+      "id": "a9f4",
+      "title": "The Mandalorian: Baby Yoda Steals the Show",
+      "content": "This is the way... to make everyone obsessed with a green toddler! The Mandalorian proves Star Wars is best when it's space western meets adorable creature feature. Pedro Pascal's helmet-acting deserves awards, and Baby Yoda's merchandise sales could probably fund a real spaceship. This show made 'I have spoken' cooler than 'May the Force be with you'!",
+      "author": "StarWarsStan",
+      "categoryId": "2b6f",
+      "tags": ["Mandalorian", "Star Wars", "Disney+"],
+      "date": "2025-02-09",
+      "thumbnail": "https://placehold.co/600x338?text=Mandalorian"
+    },
+    {
+      "id": "3b8c",
+      "title": "Dune: Sand, Spice, and Spectacle",
+      "content": "Denis Villeneuve turned Frank Herbert's unfilmable novel into a visual masterpiece! The sandworms alone are worth the price of admission. Timothée Chalamet proves he can carry a blockbuster, and the world-building makes Middle-earth look basic. Warning: You'll leave the theater craving spice coffee and afraid of sand!",
+      "author": "MovieBuff",
+      "categoryId": "5a3d",
+      "tags": ["Dune", "Sci-Fi", "Movies"],
+      "date": "2025-02-08",
+      "thumbnail": "https://placehold.co/600x338?text=Dune+Movie"
+    },
+    {
+      "id": "7e1a",
+      "title": "CSS Grid: Layout Superpowers Activated",
+      "content": "CSS Grid turns web layout from frustrating puzzle to satisfying game! Create complex designs with a few lines of code - no more float nightmares. Define rows and columns, place items exactly where you want, and make your website responsive without media query madness. It's like having a personal design assistant who actually listens!",
+      "author": "CSSWizard",
+      "categoryId": "c4e9",
+      "tags": ["CSS", "Grid", "Frontend"],
+      "date": "2025-02-07",
+      "thumbnail": "https://placehold.co/600x338?text=CSS+Grid"
+    },
+    {
+      "id": "2d9f",
+      "title": "Python: The Friendly Coding Language",
+      "content": "Python reads like English and runs like magic! From web development to data science, this language does it all with elegance and simplicity. The syntax is so clean you'll wonder why other languages need so many brackets. Django and Flask make web development a breeze, while pandas and numpy handle data like pros!",
+      "author": "PythonLover",
+      "categoryId": "c4e9",
+      "tags": ["Python", "Programming", "Backend"],
+      "date": "2025-02-06",
+      "thumbnail": "https://placehold.co/600x338?text=Python+Fun"
+    },
+    {
+      "id": "5c8b",
+      "title": "Kubernetes: Taming Container Chaos",
+      "content": "Kubernetes is the container orchestra conductor you didn't know you needed! When Docker containers start multiplying like rabbits, K8s keeps them in line. Auto-scaling, self-healing, and service discovery make your apps resilient AF. The learning curve is steep, but once you're orchestrating, you feel like a tech god!",
+      "author": "K8sMaster",
+      "categoryId": "e8b5",
+      "tags": ["Kubernetes", "DevOps", "Containers"],
+      "date": "2025-02-05",
+      "thumbnail": "https://placehold.co/600x338?text=Kubernetes"
+    },
+    {
+      "id": "9a3e",
+      "title": "Arch Linux: For the Masochistic Enthusiast",
+      "content": "Arch Linux: where the installation process is the tutorial! If you enjoy reading wikis more than using your computer, this distro is for you. But once you've built your system from scratch, you'll feel a pride that parents feel for their children. Plus, the AUR has every package imaginable - it's like Christmas every day!",
+      "author": "ArchEvangelist",
+      "categoryId": "9d1c",
+      "tags": ["Arch Linux", "Linux", "Advanced"],
+      "date": "2025-02-04",
+      "thumbnail": "https://placehold.co/600x338?text=Arch+Linux"
+    },
+    {
+      "id": "1f7d",
+      "title": "Stranger Things: 80s Nostalgia Overload",
+      "content": "Stranger Things is the love letter to the 80s we didn't know we needed! Dungeons & Dragons, bike gangs, and psychic kids - what could go wrong? The Duffer Brothers somehow make government conspiracies and alternate dimensions feel cozy. Warning: You'll develop an unhealthy obsession with Eggos and Kate Bush!",
+      "author": "UpsideDownFan",
+      "categoryId": "2b6f",
+      "tags": ["Stranger Things", "Netflix", "Sci-Fi"],
+      "date": "2025-02-03",
+      "thumbnail": "https://placehold.co/600x338?text=Stranger+Things"
+    },
+    {
+      "id": "6b2c",
+      "title": "Everything Everywhere All at Once: Multiverse Madness",
+      "content": "This movie proves that hot dog fingers and everything bagels can be profound! Michelle Yeoh fights IRS audits and multiverse threats with equal intensity. The Daniels created a masterpiece that's simultaneously hilarious, heartbreaking, and utterly bonkers. You'll never look at googly eyes the same way again!",
+      "author": "MovieManiac",
+      "categoryId": "5a3d",
+      "tags": ["Everything Everywhere", "Movies", "Multiverse"],
+      "date": "2025-02-02",
+      "thumbnail": "https://placehold.co/600x338?text=EEAAO"
+    },
+    {
+      "id": "4e9a",
+      "title": "TypeScript: JavaScript with Seatbelts",
+      "content": "TypeScript is JavaScript that went to college and got responsible! Static typing catches errors before they ruin your day, and IntelliSense becomes your new best friend. The migration might feel like learning to code again, but once you experience type-safe development, there's no going back to the wild west of plain JS!",
+      "author": "TypeMaster",
+      "categoryId": "c4e9",
+      "tags": ["TypeScript", "JavaScript", "Programming"],
+      "date": "2025-02-01",
+      "thumbnail": "https://placehold.co/600x338?text=TypeScript"
+    },
+    {
+      "id": "8d3b",
+      "title": "MongoDB: Documents for Days",
+      "content": "MongoDB stores data like you organize your thoughts - in messy but flexible documents! No more SQL tables forcing structure where there is none. JSON-like documents, flexible schemas, and aggregation pipelines that make you feel like a data wizard. Perfect for when your data structure changes more often than your socks!",
+      "author": "DatabaseDude",
+      "categoryId": "a7f2",
+      "tags": ["MongoDB", "Database", "NoSQL"],
+      "date": "2025-01-31",
+      "thumbnail": "https://placehold.co/600x338?text=MongoDB"
+    },
+    {
+      "id": "c5f8",
+      "title": "Ubuntu: Linux for Humans",
+      "content": "Ubuntu proves Linux isn't just for bearded wizards in basements! With its friendly interface and 'just works' philosophy, it's the perfect gateway drug into the Linux world. The community is amazing, the software center is packed, and Snap packages make installation a breeze. Plus, saying 'I use Ubuntu' sounds way cooler than it should!",
+      "author": "UbuntuUser",
+      "categoryId": "9d1c",
+      "tags": ["Ubuntu", "Linux", "Beginner"],
+      "date": "2025-01-30",
+      "thumbnail": "https://placehold.co/600x338?text=Ubuntu"
+    },
+    {
+      "id": "e2a7",
+      "title": "The Boys: Superheroes Gone Wild",
+      "content": "The Boys takes everything you love about superheroes and flips it on its head! What if Superman was a corporate-sponsored psychopath? This show is violent, hilarious, and surprisingly deep. Homelander might be the most terrifying villain on TV, and you'll never look at milk the same way again. Not for the faint of heart!",
+      "author": "AntiHeroFan",
+      "categoryId": "2b6f",
+      "tags": ["The Boys", "Amazon", "Superheroes"],
+      "date": "2025-01-29",
+      "thumbnail": "https://placehold.co/600x338?text=The+Boys"
+    },
+    {
+      "id": "9f4c",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "content": "This movie broke animation and our hearts simultaneously! The visual style is so innovative it makes other animated films look lazy. Miles Morales swings through multiverses while dealing with every parent's nightmare - disappointing expectations. The cliffhanger will leave you screaming, but the journey is so worth it!",
+      "author": "SpideyFan",
+      "categoryId": "5a3d",
+      "tags": ["Spider-Man", "Animation", "Marvel"],
+      "date": "2025-01-28",
+      "thumbnail": "https://placehold.co/600x338?text=Spider-Verse"
+    },
+    {
+      "id": "7b1e",
+      "title": "Git: Time Travel for Your Code",
+      "content": "Git lets you mess up your code without consequences - the ultimate undo button! Commit early, commit often, and when things go wrong, git reset --hard and pretend it never happened. Branching lets you experiment like a mad scientist, and GitHub makes collaboration actually enjoyable. Pro tip: Don't force push on main - trust me!",
+      "author": "GitGuru",
+      "categoryId": "c4e9",
+      "tags": ["Git", "Version Control", "Programming"],
+      "date": "2025-01-27",
+      "thumbnail": "https://placehold.co/600x338?text=Git+Magic"
+    },
+    {
+      "id": "3d6a",
+      "title": "Redis: The Speed Demon",
+      "content": "Redis is so fast it makes other databases look like they're moving through molasses! This in-memory data store caches everything from session data to real-time leaderboards. The data structures are simple but powerful, and the performance is insane. Perfect for when 'fast' isn't fast enough and you need 'blazing'!",
+      "author": "SpeedFreak",
+      "categoryId": "a7f2",
+      "tags": ["Redis", "Database", "Caching"],
+      "date": "2025-01-26",
+      "thumbnail": "https://placehold.co/600x338?text=Redis"
+    },
+    {
+      "id": "a8c5",
+      "title": "Fedora: The Cool Kid's Linux",
+      "content": "Fedora is where cutting-edge meets stable - the perfect balance for developers who want new features without system crashes! With GNOME's slick interface and bleeding-edge packages, you'll feel like you're using the future. Plus, you get bragging rights for using the distro that Linus Torvalds himself uses!",
+      "author": "FedoraFanatic",
+      "categoryId": "9d1c",
+      "tags": ["Fedora", "Linux", "Development"],
+      "date": "2025-01-25",
+      "thumbnail": "https://placehold.co/600x338?text=Fedora"
+    },
+    {
+      "id": "2e9b",
+      "title": "Succession: Rich People Problems",
+      "content": "Succession proves that having billions doesn't make you happy - it just gives you fancier problems! The Roys fight for control of a media empire with more backstabbing than Game of Thrones. The dialogue is so sharp it could cut glass, and you'll find yourself quoting 'you can't make a Tomlette without breaking some Greggs' unironically!",
+      "author": "DramaQueen",
+      "categoryId": "2b6f",
+      "tags": ["Succession", "HBO", "Drama"],
+      "date": "2025-01-24",
+      "thumbnail": "https://placehold.co/600x338?text=Succession"
+    },
+    {
+      "id": "5f3d",
+      "title": "Oppenheimer: 3 Hours of People Talking",
+      "content": "Nolan made a 3-hour biopic about theoretical physics and somehow made it thrilling! Cillian Murphy's intense stare could power a small city, and the Trinity test scene will leave you breathless. It's part history lesson, part character study, and entirely brilliant. Just make sure you pee before it starts!",
+      "author": "FilmBuff",
+      "categoryId": "5a3d",
+      "tags": ["Oppenheimer", "Biopic", "Nolan"],
+      "date": "2025-01-23",
+      "thumbnail": "https://placehold.co/600x338?text=Oppenheimer"
+    },
+    {
+      "id": "8c4a",
+      "title": "Tailwind CSS: Utility-First Awesomeness",
+      "content": "Tailwind CSS turns design into a playground! Instead of writing custom CSS, you compose designs using utility classes. It's like LEGO for web design - small building blocks that create amazing structures. The learning curve is worth it, and once you go utility-first, writing traditional CSS feels like coding with one hand tied behind your back!",
+      "author": "TailwindTamer",
+      "categoryId": "c4e9",
+      "tags": ["Tailwind", "CSS", "Frontend"],
+      "date": "2025-01-22",
+      "thumbnail": "https://placehold.co/600x338?text=Tailwind+CSS"
+    },
+    {
+      "id": "1a6f",
+      "title": "PostgreSQL: The Smart Database",
+      "content": "PostgreSQL is the database that went to MIT! With JSON support, advanced indexing, and transactions that would make a banker jealous, it handles everything from simple blogs to massive enterprise systems. The extensibility means you can teach it new tricks, and the community support is absolutely fantastic!",
+      "author": "SQLSamurai",
+      "categoryId": "a7f2",
+      "tags": ["PostgreSQL", "SQL", "Database"],
+      "date": "2025-01-21",
+      "thumbnail": "https://placehold.co/600x338?text=PostgreSQL"
+    },
+    {
+      "id": "6e8b",
+      "title": "Linux Mint: Comfort Food for Your PC",
+      "content": "Linux Mint is the warm blanket of operating systems! Based on Ubuntu but with extra polish, it's the perfect distro for Windows refugees. Cinnamon desktop feels familiar yet modern, and everything works out of the box. It's stable, reliable, and won't surprise you with sudden changes - the responsible adult of Linux distros!",
+      "author": "MintMaster",
+      "categoryId": "9d1c",
+      "tags": ["Linux Mint", "Linux", "Beginner"],
+      "date": "2025-01-20",
+      "thumbnail": "https://placehold.co/600x338?text=Linux+Mint"
+    },
+    {
+      "id": "4b9c",
+      "title": "The Office: Still the King of Comedy",
+      "content": "Fifteen years later and The Office still has more rewatch value than any show in history! Michael Scott's cringe comedy is timeless, Jim's camera looks are iconic, and 'That's what she said' will never not be funny. The character development is so good you feel like you work at Dunder Mifflin. Identity theft is not a joke!",
+      "author": "OfficeAddict",
+      "categoryId": "2b6f",
+      "tags": ["The Office", "Comedy", "TV Series"],
+      "date": "2025-01-19",
+      "thumbnail": "https://placehold.co/600x338?text=The+Office"
+    },
+    {
+      "id": "9d2a",
+      "title": "Barbie: Pink Power Explosion",
+      "content": "Greta Gerwig turned a plastic doll into a feminist masterpiece! Barbie is hilarious, heartfelt, and surprisingly deep. Ryan Gosling's Ken steals every scene he's in, and the production design is pinker than a flamingo convention. You'll leave the theater wanting to conquer the world in high heels!",
+      "author": "MovieLover",
+      "categoryId": "5a3d",
+      "tags": ["Barbie", "Comedy", "Movies"],
+      "date": "2025-01-18",
+      "thumbnail": "https://placehold.co/600x338?text=Barbie+Movie"
+    },
+    {
+      "id": "7f5c",
+      "title": "VS Code: The Editor That Reads Your Mind",
+      "content": "VS Code understands what you're trying to code before you do! With IntelliSense that borders on psychic, extensions for everything imaginable, and a terminal built right in, it's the perfect coding companion. The GitHub integration is seamless, and the theme store lets you code in style. It's so good it almost makes debugging enjoyable!",
+      "author": "EditorExpert",
+      "categoryId": "c4e9",
+      "tags": ["VS Code", "Tools", "Development"],
+      "date": "2025-01-17",
+      "thumbnail": "https://placehold.co/600x338?text=VS+Code"
+    },
+    {
+      "id": "3a8e",
+      "title": "AWS: The Cloud That Has Everything",
+      "content": "AWS is like the Walmart of cloud computing - if Walmart also sold supercomputers and AI services! From simple storage to machine learning pipelines, if you can imagine it, AWS probably has a service for it. The free tier is generous, the documentation is excellent, and the bill will make you cry (but in a good way... mostly)!",
+      "author": "CloudCaptain",
+      "categoryId": "e8b5",
+      "tags": ["AWS", "Cloud", "DevOps"],
+      "date": "2025-01-16",
+      "thumbnail": "https://placehold.co/600x338?text=AWS+Cloud"
+    },
+    {
+      "id": "a2b5",
+      "title": "React Hooks: Functional Components on Steroids",
+      "content": "Hooks turned React functional components from second-class citizens to first-class heroes! useState brings state to functions, useEffect handles side effects, and useContext makes prop drilling obsolete. Custom hooks let you extract component logic like a boss. Say goodbye to class components and confusing 'this' bindings!",
+      "author": "HookMaster",
+      "categoryId": "c4e9",
+      "tags": ["React", "Hooks", "Frontend"],
+      "date": "2025-01-15",
+      "thumbnail": "https://placehold.co/600x338?text=React+Hooks"
+    },
+    {
+      "id": "b3c6",
+      "title": "Next.js: The Full-Stack React Framework",
+      "content": "Next.js takes React and gives it superpowers! Server-side rendering out of the box, API routes that make backend work a breeze, and file-based routing that just makes sense. Image optimization, middleware, and incremental static regeneration - it's like Christmas came early for React developers!",
+      "author": "NextNinja",
+      "categoryId": "a7f2",
+      "tags": ["Next.js", "React", "Fullstack"],
+      "date": "2025-01-14",
+      "thumbnail": "https://placehold.co/600x338?text=Next.js"
+    },
+    {
+      "id": "c4d7",
+      "title": "Vim: The Editor That Never Dies",
+      "content": "Vim is the cockroach of text editors - it will outlive us all! The learning curve is vertical, but once you're flying with keyboard shortcuts, you'll pity mouse users. Macros, registers, and the dot command turn repetitive tasks into single keystrokes. It's not an editor, it's a way of life!",
+      "author": "VimVeteran",
+      "categoryId": "9d1c",
+      "tags": ["Vim", "Editor", "Terminal"],
+      "date": "2025-01-13",
+      "thumbnail": "https://placehold.co/600x338?text=Vim+Power"
+    },
+    {
+      "id": "d5e8",
+      "title": "Game of Thrones: Winter is Coming (and So is Disappointment)",
+      "content": "Eight seasons of political intrigue, dragons, and 'winter is coming' memes, only to end with everyone hating the finale! The Red Wedding traumatized a generation, and 'Dracarys' became everyone's favorite word. Still worth watching, just stop at season 6 and imagine your own ending!",
+      "author": "ThronesFan",
+      "categoryId": "2b6f",
+      "tags": ["Game of Thrones", "Fantasy", "HBO"],
+      "date": "2025-01-12",
+      "thumbnail": "https://placehold.co/600x338?text=Game+of+Thrones"
+    },
+    {
+      "id": "e6f9",
+      "title": "Inception: Dreams Within Dreams",
+      "content": "Nolan made a movie about dreaming that keeps you awake at night! The spinning top, the zero-gravity hallway fight, and that iconic BRAAAAAM sound. Is Cobb still dreaming? Who cares when the movie is this mind-bendingly cool! Just don't watch it when you're sleepy!",
+      "author": "DreamWeaver",
+      "categoryId": "5a3d",
+      "tags": ["Inception", "Nolan", "Sci-Fi"],
+      "date": "2025-01-11",
+      "thumbnail": "https://placehold.co/600x338?text=Inception"
+    },
+    {
+      "id": "f7a1",
+      "title": "GraphQL: REST API's Cooler Cousin",
+      "content": "GraphQL lets clients ask for exactly what they need - no more, no less! Over-fetching and under-fetching become problems of the past. The schema is self-documenting, and Apollo Client makes implementation a dream. It's like going from a buffet where you have to take everything to an à la carte menu!",
+      "author": "QLMaster",
+      "categoryId": "a7f2",
+      "tags": ["GraphQL", "API", "Backend"],
+      "date": "2025-01-10",
+      "thumbnail": "https://placehold.co/600x338?text=GraphQL"
+    },
+    {
+      "id": "a8b2",
+      "title": "Go: Simple, Fast, and Productive",
+      "content": "Go is like C if C went to therapy and learned to communicate better! Compiled language speed with garbage collection convenience, goroutines for effortless concurrency, and a standard library that has everything. The mascot is a gopher, and the community is amazingly helpful. It's the language for when you need to Get Stuff Done!",
+      "author": "GoGuru",
+      "categoryId": "c4e9",
+      "tags": ["Go", "Backend", "Concurrent"],
+      "date": "2025-01-09",
+      "thumbnail": "https://placehold.co/600x338?text=Go+Lang"
+    },
+    {
+      "id": "b9c3",
+      "title": "tmux: Terminal Multiplexing Magic",
+      "content": "tmux lets you run multiple terminal sessions in one window, and it persists even if you disconnect! Panes, windows, sessions - organize your workflow like a symphony conductor. Copy mode, session sharing, and a configuration file that becomes your best friend. Once you go tmux, you never go back!",
+      "author": "TerminalTamer",
+      "categoryId": "9d1c",
+      "tags": ["tmux", "Terminal", "Productivity"],
+      "date": "2025-01-08",
+      "thumbnail": "https://placehold.co/600x338?text=tmux"
+    },
+    {
+      "id": "c0d4",
+      "title": "The Wire: The Greatest TV Show Ever Made",
+      "content": "David Simon created a Shakespearean tragedy set in Baltimore! Each season examines a different institution - drugs, ports, politics, schools, media. The characters feel so real you'll forget they're actors. 'Omar comin'!' will echo in your head forever. This show doesn't just entertain - it educates!",
+      "author": "WireWizard",
+      "categoryId": "2b6f",
+      "tags": ["The Wire", "Drama", "HBO"],
+      "date": "2025-01-07",
+      "thumbnail": "https://placehold.co/600x338?text=The+Wire"
+    },
+    {
+      "id": "d1e5",
+      "title": "The Matrix: Red Pill or Blue Pill?",
+      "content": "The Wachowskis changed action films forever with bullet time and philosophical questions! Keanu's stoic cool, Hugo Weaving's iconic Agent Smith, and that green code rain. It made leather coats cool again and made everyone question reality. What if the sequel was as good as the original?",
+      "author": "MatrixMaven",
+      "categoryId": "5a3d",
+      "tags": ["The Matrix", "Sci-Fi", "Action"],
+      "date": "2025-01-06",
+      "thumbnail": "https://placehold.co/600x338?text=The+Matrix"
+    },
+    {
+      "id": "e2f6",
+      "title": "Svelte: The Disappearing Framework",
+      "content": "Svelte does magic at build time so you don't need a virtual DOM at runtime! Write less code, get faster apps, and enjoy reactivity without complex state management. The learning curve is practically flat, and the developer experience is pure joy. It's like React went on a diet and came back ripped!",
+      "author": "SvelteSavant",
+      "categoryId": "c4e9",
+      "tags": ["Svelte", "Frontend", "Framework"],
+      "date": "2025-01-05",
+      "thumbnail": "https://placehold.co/600x338?text=Svelte"
+    },
+    {
+      "id": "f3a7",
+      "title": "Nginx: More Than Just a Web Server",
+      "content": "Nginx serves static files faster than you can say 'blazing fast'! Reverse proxy, load balancer, HTTP cache - this Russian software does it all with minimal resource usage. The configuration syntax is elegant once you understand it. It's the silent workhorse powering half the internet!",
+      "author": "ServerSensei",
+      "categoryId": "e8b5",
+      "tags": ["Nginx", "Web Server", "DevOps"],
+      "date": "2025-01-04",
+      "thumbnail": "https://placehold.co/600x338?text=Nginx"
+    },
+    {
+      "id": "a4b8",
+      "title": "Bash Scripting: Automate All the Things!",
+      "content": "Bash turns repetitive terminal tasks into one-liner magic! Pipes, redirections, and command substitution feel like wizardry. Write scripts to deploy code, clean logs, or annoy coworkers with automated messages. Warning: Once you start scripting, you'll automate everything, including making coffee!",
+      "author": "ScriptSlinger",
+      "categoryId": "9d1c",
+      "tags": ["Bash", "Scripting", "Automation"],
+      "date": "2025-01-03",
+      "thumbnail": "https://placehold.co/600x338?text=Bash+Scripting"
+    },
+    {
+      "id": "b5c9",
+      "title": "Chernobyl: A Disaster Masterpiece",
+      "content": "HBO turned a nuclear disaster into the most gripping miniseries ever! The tension is so thick you could cut it with a Geiger counter. Jared Harris delivers a career-best performance, and the attention to detail is staggering. You'll come away educated, horrified, and in awe of the storytelling!",
+      "author": "HistoryBuff",
+      "categoryId": "2b6f",
+      "tags": ["Chernobyl", "Drama", "Miniseries"],
+      "date": "2025-01-02",
+      "thumbnail": "https://placehold.co/600x338?text=Chernobyl"
+    },
+    {
+      "id": "c6d0",
+      "title": "Parasite: Class Warfare at Its Finest",
+      "content": "Bong Joon-ho created a masterpiece about capitalism that's equal parts hilarious and horrifying! The class commentary is sharp, the twists are unpredictable, and that basement scene will haunt you. First non-English film to win Best Picture, and it deserved every award!",
+      "author": "FilmFanatic",
+      "categoryId": "5a3d",
+      "tags": ["Parasite", "Thriller", "Oscar"],
+      "date": "2025-01-01",
+      "thumbnail": "https://placehold.co/600x338?text=Parasite"
+    },
+    {
+      "id": "d7e1",
+      "title": "Webpack: The Module Bundler We Love to Hate",
+      "content": "Webpack configuration feels like solving a Rubik's cube blindfolded, but once it works, it's magic! Bundle JavaScript, CSS, images, and fonts into optimized packages. Loaders transform everything, plugins add superpowers, and tree shaking removes dead code. It's complex but worth the headache!",
+      "author": "BundleBoss",
+      "categoryId": "a7f2",
+      "tags": ["Webpack", "Bundler", "JavaScript"],
+      "date": "2024-12-31",
+      "thumbnail": "https://placehold.co/600x338?text=Webpack"
+    },
+    {
+      "id": "e8f2",
+      "title": "Rust: Safety Meets Performance",
+      "content": "Rust is the language that stops you from shooting yourself in the foot, then hands you a rocket launcher! Memory safety without garbage collection, fearless concurrency, and performance that rivals C++. The compiler is strict but helpful, and the borrow checker becomes your best friend!",
+      "author": "Rustacean",
+      "categoryId": "c4e9",
+      "tags": ["Rust", "Systems", "Performance"],
+      "date": "2024-12-30",
+      "thumbnail": "https://placehold.co/600x338?text=Rust"
+    },
+    {
+      "id": "f9a3",
+      "title": "Zsh: Your Terminal's Fancy Cousin",
+      "content": "Zsh is bash with plugins, themes, and auto-completion that reads your mind! Oh My Zsh turns your terminal into a productivity powerhouse. Syntax highlighting, auto-suggestions, and git status in your prompt. It's like giving your terminal a PhD in being awesome!",
+      "author": "ShellScholar",
+      "categoryId": "9d1c",
+      "tags": ["Zsh", "Terminal", "Shell"],
+      "date": "2024-12-29",
+      "thumbnail": "https://placehold.co/600x338?text=Zsh"
+    },
+    {
+      "id": "a0b4",
+      "title": "Better Call Saul: The Prequel That Became a Masterpiece",
+      "content": "Vince Gilligan did the impossible - made a prequel that's as good as Breaking Bad! Bob Odenkirk's transformation from Slippin' Jimmy to Saul Goodman is mesmerizing. The pacing is deliberate, the cinematography is art, and the character development is unparalleled. It's a legal drama that's actually thrilling!",
+      "author": "SaulSuperfan",
+      "categoryId": "2b6f",
+      "tags": ["Better Call Saul", "Drama", "Prequel"],
+      "date": "2024-12-28",
+      "thumbnail": "https://placehold.co/600x338?text=Better+Call+Saul"
+    },
+    {
+      "id": "b1c5",
+      "title": "Interstellar: Love Across Dimensions",
+      "content": "Nolan made a space epic that's scientifically accurate and emotionally devastating! The black hole visualization won a Nobel Prize, Hans Zimmer's organ score is epic, and that time dilation scene is pure anxiety. It's a love letter to humanity's exploratory spirit wrapped in a physics textbook!",
+      "author": "SpaceSavant",
+      "categoryId": "5a3d",
+      "tags": ["Interstellar", "Sci-Fi", "Space"],
+      "date": "2024-12-27",
+      "thumbnail": "https://placehold.co/600x338?text=Interstellar"
+    },
+    {
+      "id": "c2d6",
+      "title": "Jest: Testing Made Actually Enjoyable",
+      "content": "Jest turns the chore of testing into something almost fun! Snapshot testing, mocking made easy, and a watch mode that's smarter than you. The error messages are helpful, the setup is minimal, and it works with React, Vue, Node.js - basically everything! Writing tests has never been this delightful!",
+      "author": "TestTitan",
+      "categoryId": "c4e9",
+      "tags": ["Jest", "Testing", "JavaScript"],
+      "date": "2024-12-26",
+      "thumbnail": "https://placehold.co/600x338?text=Jest"
+    },
+    {
+      "id": "d3e7",
+      "title": "Elasticsearch: Search Like Google",
+      "content": "Elasticsearch makes full-text search feel like magic! Near-instant results, fuzzy matching, and aggregations that reveal insights you didn't know existed. Combine it with Kibana for visualization and you have an entire data analytics platform. It's like giving your app a superpower!",
+      "author": "SearchSensei",
+      "categoryId": "a7f2",
+      "tags": ["Elasticsearch", "Search", "Database"],
+      "date": "2024-12-25",
+      "thumbnail": "https://placehold.co/600x338?text=Elasticsearch"
+    },
+    {
+      "id": "e4f8",
+      "title": "Ansible: Automation for Everyone",
+      "content": "Ansible speaks YAML and makes infrastructure automation accessible! No agents needed, just SSH and Python. Playbooks describe your desired state in human-readable format, and idempotency means you can run them over and over. It's like having a robot assistant for your servers!",
+      "author": "AutomationAce",
+      "categoryId": "e8b5",
+      "tags": ["Ansible", "Automation", "DevOps"],
+      "date": "2024-12-24",
+      "thumbnail": "https://placehold.co/600x338?text=Ansible"
+    },
+    {
+      "id": "f5a9",
+      "title": "Dark: German Time Travel Perfection",
+      "content": "Dark is the most complex, mind-bending show you'll ever watch! Time travel, family trees that make your head spin, and German precision storytelling. The soundtrack is haunting, the cinematography is moody, and the plot ties up perfectly. You'll need a spreadsheet to keep track, but it's worth it!",
+      "author": "TimeTraveler",
+      "categoryId": "2b6f",
+      "tags": ["Dark", "Sci-Fi", "Netflix"],
+      "date": "2024-12-23",
+      "thumbnail": "https://placehold.co/600x338?text=Dark+Series"
+    },
+    {
+      "id": "a6b0",
+      "title": "The Godfather: An Offer You Can't Refuse",
+      "content": "Coppola created the perfect film about family, power, and betrayal! Brando's mumbling, Pacino's transformation, and 'leave the gun, take the cannoli.' It's a masterclass in storytelling, cinematography, and character development. Even 50 years later, it still holds up as cinematic perfection!",
+      "author": "FilmGod",
+      "categoryId": "5a3d",
+      "tags": ["The Godfather", "Classic", "Crime"],
+      "date": "2024-12-22",
+      "thumbnail": "https://placehold.co/600x338?text=The+Godfather"
+    },
+    {
+      "id": "b7c1",
+      "title": "Three.js: 3D in the Browser",
+      "content": "Three.js brings 3D graphics to the web without plugins! Create games, data visualizations, or interactive experiences that feel like magic. The learning curve is steep, but the results are breathtaking. Combine it with WebGL and watch your browser become a game console!",
+      "author": "3DWizard",
+      "categoryId": "a7f2",
+      "tags": ["Three.js", "3D", "WebGL"],
+      "date": "2024-12-21",
+      "thumbnail": "https://placehold.co/600x338?text=Three.js"
+    },
+    {
+      "id": "c8d2",
+      "title": "Dart: Flutter's Secret Weapon",
+      "content": "Dart is the language that powers Flutter, Google's cross-platform framework! It's like JavaScript and Java had a baby, then gave it superpowers. Sound null safety, great tooling, and compilation to native code. It's the language you learn for one framework and end up loving for its own merits!",
+      "author": "DartDev",
+      "categoryId": "c4e9",
+      "tags": ["Dart", "Flutter", "Mobile"],
+      "date": "2024-12-20",
+      "thumbnail": "https://placehold.co/600x338?text=Dart"
+    },
+    {
+      "id": "d9e3",
+      "title": "Terraform: Infrastructure as Code",
+      "content": "Terraform lets you define your cloud infrastructure in configuration files! Version control your servers, automate provisioning, and never manually click through AWS console again. The state file is your source of truth, and modules let you reuse configurations. It's like Git for your infrastructure!",
+      "author": "InfraMaster",
+      "categoryId": "e8b5",
+      "tags": ["Terraform", "IaC", "DevOps"],
+      "date": "2024-12-19",
+      "thumbnail": "https://placehold.co/600x338?text=Terraform"
+    },
+    {
+      "id": "e0f4",
+      "title": "Rick and Morty: Sci-Fi with Pickle Rick",
+      "content": "Adult Swim created the perfect blend of high-concept sci-fi and toilet humor! Multiverse theory, existential dread, and talking about Szechuan sauce. The animation is wild, the jokes come at machine-gun pace, and the philosophical moments actually make you think. Wubba lubba dub dub!",
+      "author": "RickFan",
+      "categoryId": "2b6f",
+      "tags": ["Rick and Morty", "Animation", "Comedy"],
+      "date": "2024-12-18",
+      "thumbnail": "https://placehold.co/600x338?text=Rick+and+Morty"
+    },
+    {
+      "id": "f1a5",
+      "title": "Pulp Fiction: Nonlinear Storytelling Perfection",
+      "content": "Tarantino rewrote the rules of cinema with this masterpiece! The dialogue is cooler than you'll ever be, the soundtrack is iconic, and the non-linear structure keeps you hooked. 'Royale with cheese,' the dance contest, and that briefcase - pure cinema magic that never gets old!",
+      "author": "TarantinoFan",
+      "categoryId": "5a3d",
+      "tags": ["Pulp Fiction", "Crime", "Classic"],
+      "date": "2024-12-17",
+      "thumbnail": "https://placehold.co/600x338?text=Pulp+Fiction"
+    }
+  ],
+  "categories": [
+    {
+      "id": "c4e9",
+      "name": "Programming"
+    },
+    {
+      "id": "a7f2",
+      "name": "Web Development"
+    },
+    {
+      "id": "9d1c",
+      "name": "Linux"
+    },
+    {
+      "id": "2b6f",
+      "name": "TV Series"
+    },
+    {
+      "id": "5a3d",
+      "name": "Films"
+    },
+    {
+      "id": "e8b5",
+      "name": "DevOps"
+    }
+  ]
+}

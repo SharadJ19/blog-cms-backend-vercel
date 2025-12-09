@@ -1,14 +1,16 @@
 {
   "name": "blog-cms-backend-vercel",
   "version": "1.0.0",
-  "type": "module",
-  "main": "api/index.js",
+  "description": "MongoDB backend for Angular Blog CMS",
+  "main": "index.js",
   "scripts": {
-    "seed": "node seed.js"
+    "dev": "vercel dev",
+    "deploy": "vercel --prod",
+    "seed": "node scripts/seed-database.js"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
-    "mongodb": "^7.0.0"
+    "mongoose": "^9.0.1"
   }
 }
