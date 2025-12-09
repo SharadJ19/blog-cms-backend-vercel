@@ -6,25 +6,21 @@ MongoDB + Vercel Serverless backend for Angular Blog CMS.
 
 ```
 blog-cms-backend/
-├── api/                              # Vercel Serverless Functions
-│   ├── posts/
-│   │   ├── index.js                  # GET all, POST create
-│   │   └── [id].js                   # GET one, PUT, DELETE
-│   ├── categories/
-│   │   ├── index.js                  # GET all, POST create
-│   │   └── [id].js                   # GET one, PUT, DELETE
+├── api/
+│   ├── posts.js           # Handles /api/posts
+│   ├── posts_[id].js      # Handles /api/posts/:id
+│   ├── categories.js      # Handles /api/categories
+│   ├── categories_[id].js # Handles /api/categories/:id
 │   └── utils/
-│       └── dbConnect.js              # MongoDB connection
-├── models/                           # MongoDB Models
+│       └── dbConnect.js
+├── models/
 │   ├── Post.js
 │   └── Category.js
-├── scripts/                          # Database scripts
-│   └── seed-database.js              # Seeder (imports from db.json)
-├── db.json                           # Your data file (MUST be here)
+├── scripts/
+│   └── seed-database.js
+├── db.json
 ├── package.json
-├── vercel.json
-├── .env                              # Environment variables
-└── README.md
+└── .env
 ```
 
 ### Quick Start
